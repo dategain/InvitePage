@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dategain.app",
+    "sha256_cert_fingerprints": [
+      "f8:08:54:fb:5b:ca:b3:4d:2a:90:3c:15:d0:c6:11:8e:e2:c2:92:f2:02:35:19:06:09:8f:5d:12:26:3b:66:5d"
+    ]
+  }
+}]
